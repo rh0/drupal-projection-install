@@ -1,0 +1,9 @@
+name = Simple Views Plugin
+description = Simple test of views plugin integration
+package = d3-projection
+core = 7.x
+
+files[] = simple_test.module
+files[] = simple_test.views.inc
+files[] = simple-test-simple.tpl.php
+files[] = simple_test_style_handler.inc
