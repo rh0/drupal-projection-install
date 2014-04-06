@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/custom/d3-projection"]
+	path = sites/all/modules/custom/d3-projection
+	url = git@github.com:rh0/drupal-views-d3-projection.git
